@@ -3,8 +3,7 @@
 
 joi-contrib contains a series of joi validation functions not available in joi core
 
-[![Build Status](https://travis-ci.org/andrewkeig/joi-contrib.svg?branch=master)](https://travis-ci.org/andrewkeig/joi-contrib)
-
+[![build status](https://travis-ci.org/AndrewKeig/joi-contrib.svg)](http://travis-ci.org/AndrewKeig/joi-contrib)
 
 ## Installation
 
