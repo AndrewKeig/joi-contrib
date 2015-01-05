@@ -28,7 +28,7 @@ var schema = {
 
 
 ```
-runs tests
+npm test
 
 ```
 
