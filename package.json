@@ -1,0 +1,16 @@
+{
+  "name": "joi-contrib",
+  "version": "0.0.1",
+  "description": "joi-contrib contains a series of joi validation functions not available in joi core",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "mocha -R spec"
+  },
+  "author": "Andrew Keig <andrew.keig@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "joi": "^5.0.2",
+    "mocha": "^2.0.1"
+  },
+  "dependencies": {}
+}
