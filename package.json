@@ -2,15 +2,30 @@
   "name": "joi-contrib",
   "version": "0.0.1",
   "description": "joi-contrib contains a series of joi validation functions not available in joi core",
+  "homepage": "https://github.com/andrewkeig/joi-contrib",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andrewkeig/joi-contrib"
+  },
   "main": "./lib/index.js",
   "scripts": {
     "test": "mocha -R spec"
   },
   "author": "Andrew Keig <andrew.keig@gmail.com>",
-  "license": "MIT",
   "devDependencies": {
     "joi": "^5.0.2",
     "mocha": "^2.0.1"
   },
-  "dependencies": {}
+  "dependencies": {},
+  "keywords": [
+    "joi",
+    "hapi",
+    "contrib"
+  ],
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/andrewkeig/joi-contrib/raw/master/LICENSE"
+    }
+  ]
 }
